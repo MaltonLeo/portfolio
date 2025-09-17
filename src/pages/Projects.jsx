@@ -34,7 +34,7 @@ export default function Projects() {
         <ProjectCard
           title="Video Call"
           desc="Face detection ,video call "
-          href="https://github.com/MaltonLeo/facecall.git"
+          href="https://call.malton.uz/?room=demo"
           tech={["WebRTC","socket.io","Reacts"]}
         />
       </Grid>
