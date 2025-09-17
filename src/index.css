@@ -1,0 +1,11 @@
+/* index.css yoki App.css ichida */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Arial', sans-serif;
+  background-color: #f2f2f2;
+}
+html, body {
+  overflow-x: hidden;
+}
